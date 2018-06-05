@@ -19,8 +19,7 @@ int main(int argc, char *argv[]) {
 		    sumaPar=sumaPar+num;
 		}      
 	    else{
-	    	sumaImpar=sumaImpar+num;
-	    	
+	    	sumaImpar=sumaImpar+num;	
 		}
 		
 	}
